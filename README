@@ -1,0 +1,14 @@
+***README
+Created by Andy Dyrcz
+for the IMG Group in the Sears OBU
+
+This web app will allow for the creation of incident reports when a P1 is raised.
+Tracking IRs this way will allow us to store information for easier tracking and monitoring of issues.
+
+The following components will be available:
+Creation
+Editing the form
+querying the DB
+Printing report as PDF or BB formatted email.
+
+Any comments or suggestions should be directed to Andy Dyrcz - ADyrcz@gmail.com
